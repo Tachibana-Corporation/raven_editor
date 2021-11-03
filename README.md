@@ -1,2 +1,2 @@
-# Raven-IDE
-A Ruby IDE written in ruby.
+# Raven Editor
+A ruby IDE written in ruby for ruby.

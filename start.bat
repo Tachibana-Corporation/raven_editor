@@ -1,1 +1,3 @@
-start ruby "./app/controller/main.rb"
+@echo off
+cd "./app/controller"
+ruby "main.rbw"
